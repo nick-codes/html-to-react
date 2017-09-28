@@ -45,7 +45,7 @@
     "react": "^16.0"
   },
   "devDependencies": {
-    "coveralls": "^2.11",
+    "coveralls": "^3.0.0",
     "eslint": "^4.0",
     "istanbul": "^0.4",
     "mocha": "^3.5",
